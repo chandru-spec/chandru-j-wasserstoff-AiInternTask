@@ -31,8 +31,7 @@ This project focuses on developing a computer vision system for image segmentati
 
 *Getting Started*
 
-1. Clone the repository: `git clone (link unavailable)
-2. Install dependencies: `pip install -r requirements.txt`
+Install dependencies: `pip install -r requirements.txt`
 
 *Usage*
 
